@@ -64,3 +64,8 @@ git status
 ```
 git log
 ```
+
+## ALTERA REPOSITÓRIO REMOTO
+```
+git remote rm xxx
+```
