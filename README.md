@@ -15,22 +15,22 @@ git add .
 git commit -a -m "First Commit"
 ```
 
-## PASSAR REPOSITÓRIO LOCAL PARA O REMOTO
+## PASSAR REPOSITÓRIO LOCAL PARA O REMOTO (xxx - link do repo)
 ```
 git remote add origin xxx
 ```
 
-## CRIAR/ALTERAR BRANCH
+## CRIAR/ALTERAR BRANCH (xxx - nome da branch)
 ```
 git branch -m xxx
 ```
 
-## ENVIAR TODAS MODIFICAÇÕES DO COMMIT PARA O REPOSITÓRIO
+## ENVIAR TODAS MODIFICAÇÕES DO COMMIT PARA O REPOSITÓRIO (xxx - nome da branch)
 ```
 git push -u origin xxx
 ```
 
-## CASOS EXTREMOS
+## CASOS EXTREMOS (xxx - nome da branch)
 ```
 git push -f origin xxx
 ```
