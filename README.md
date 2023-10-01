@@ -1,4 +1,8 @@
-# Comandos-GIT
+# Commit em outros repositórios
+
+## Fork repositório
+
+# Comandos - GIT
 
 ## CRIAR REPOSITÓRIO LOCAL
 ```
